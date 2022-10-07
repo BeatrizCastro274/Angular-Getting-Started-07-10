@@ -21,3 +21,4 @@ describe('ProductAlertsComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
